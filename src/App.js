@@ -6,7 +6,7 @@ function App() {
 		<div>link</div>
 		<button className='btn'>click</button>
 		     <button>button</button>
-		<button>test button</button>
+
 	</div>
   );
 }
